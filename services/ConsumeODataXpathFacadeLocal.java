@@ -5,5 +5,6 @@ import oneapp.incture.workbox.poadapter.dto.ResponseMessage;
 public interface ConsumeODataXpathFacadeLocal {
 
 	ResponseMessage getDataFromECCNew(String processor, String scode);
+public void add();
 
 }
